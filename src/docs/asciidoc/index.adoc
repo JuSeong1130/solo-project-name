@@ -1,0 +1,31 @@
+= 회원 조회
+:sectnums:
+:toc: left
+:toclevels: 4
+:toc-title: Contents
+:source-highlighter: prettify
+
+Moon Ju Seong <jsmoon1130@naver.com>
+
+***
+
+== MemberController
+=== 회원 조회
+
+.curl-request
+include::{snippets}/get-members/curl-request.adoc[]
+
+.http-request
+include::{snippets}/get-members/http-request.adoc[]
+
+.request-parameter
+include::{snippets}/get-members/request-parameters.adoc[]
+
+.request-fields
+include::{snippets}/get-members/request-fields.adoc[]
+
+.http-response
+include::{snippets}/get-members/http-response.adoc[]
+
+.response-fields
+include::{snippets}/get-members/response-fields.adoc[]
